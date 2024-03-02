@@ -1012,6 +1012,23 @@
     },
     {
         "id_iptv": "rakettv",
+        "nama_channel": "Band Sports Formula 1",
+        "tagline": "",
+        "jenis": "dash-clearkey",
+        "url_iptv": "https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd?da=1&country=BR&accountType=DTH&deviceType=web",
+        "premium": "t",
+        "aktif": "t",
+        "adapter": "direct",
+        "alpha_2_code": "SP",
+        "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0\"}",
+        "pinned": "f",
+        "url_license": "bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008",
+        "namespace": "",
+        "header_license": "{\"x-data\":\"none\"}",
+        "platform": "[web]"
+    },
+    {
+        "id_iptv": "rakettv",
         "nama_channel": "TSN Sports 1",
         "tagline": "",
         "jenis": "dash-clearkey",
