@@ -137,6 +137,22 @@
     },
     {
         "id_iptv": "rakettv",
+        "nama_channel": "TVRI Sports",
+        "tagline": "Soccer Channel",
+        "jenis": "hls",
+        "url_iptv": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
+        "premium": "t",
+        "aktif": "t",
+        "adapter": "direct",
+        "alpha_2_code": "SP",
+        "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0\"}",
+        "pinned": "f",
+        "namespace": "",
+        "header_license": "{\"x-data\":\"none\"}",
+        "platform": "[web]"
+    },
+    {
+        "id_iptv": "rakettv",
         "nama_channel": "Premier League 1",
         "tagline": "",
         "jenis": "dash-clearkey",
