@@ -1809,7 +1809,7 @@
     },
     {
         "id_iptv": "rakettv",
-        "nama_channel": "Premier League TV",
+        "nama_channel": "USA Premier League",
         "tagline": "",
         "jenis": "dash-clearkey",
         "url_iptv": "https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd",
