@@ -137,7 +137,7 @@
     },
     {
         "id_iptv": "rakettv",
-        "nama_channel": "Liga Indonesia CH 1",
+        "nama_channel": "Liga Indonesia 1",
         "tagline": "",
         "jenis": "hls",
         "url_iptv": "https://habotv.github.io/live/c5.m3u8",
@@ -153,7 +153,7 @@
     },    
     {
         "id_iptv": "rakettv",
-        "nama_channel": "Liga Indonesia CH 2",
+        "nama_channel": "Liga Indonesia 2",
         "tagline": "",
         "jenis": "hls",
         "url_iptv": "https://habotv.github.io/live/c6.m3u8",
