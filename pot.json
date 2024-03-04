@@ -551,6 +551,23 @@
     },
     {
         "id_iptv": "rakettv",
+        "nama_channel": "Astro Sports 1",
+        "tagline": "",
+        "jenis": "dash-clearkey",
+        "url_iptv": "https://sooka.starlive.workers.dev/CH1/masterCH1.mpd",
+        "premium": "t",
+        "aktif": "t",
+        "adapter": "direct",
+        "alpha_2_code": "SP",
+        "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0\"}",
+        "pinned": "f",
+        "url_license": "b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77",
+        "namespace": "",
+        "header_license": "{\"x-data\":\"none\"}",
+        "platform": "[web]"
+    },
+    {
+        "id_iptv": "rakettv",
         "nama_channel": "Via Sports 1",
         "tagline": "",
         "jenis": "dash-clearkey",
