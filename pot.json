@@ -1,7 +1,7 @@
 [
     {
         "id_iptv": "rakettv",
-        "nama_channel": "SPOTV 1",
+        "nama_channel": "SPOTV 1 HD",
         "tagline": "SPOTV 1",
         "jenis": "dash-clearkey",
         "url_iptv": "https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd",
@@ -18,7 +18,7 @@
     },
     {
         "id_iptv": "rakettv",
-        "nama_channel": "SPOTV 2",
+        "nama_channel": "SPOTV 2 HD",
         "tagline": "SPOTV 2",
         "jenis": "dash-clearkey",
         "url_iptv": "https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd",
