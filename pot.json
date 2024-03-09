@@ -18,6 +18,22 @@
     },
     {
         "id_iptv": "rakettv",
+        "nama_channel": "PREMIER LEAGUE 2",
+        "tagline": "HD",
+        "jenis": "hls",
+        "url_iptv": "https://habotv.github.io/live/c2.m3u8",
+        "premium": "t",
+        "aktif": "t",
+        "adapter": "direct",
+        "alpha_2_code": "SP",
+        "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0\"}",
+        "pinned": "f",
+        "namespace": "",
+        "header_license": "{\"x-data\":\"none\"}",
+        "platform": "[web]"
+    },
+    {
+        "id_iptv": "rakettv",
         "nama_channel": "SPOTV 1 HD",
         "tagline": "SPOTV 1",
         "jenis": "dash-clearkey",
