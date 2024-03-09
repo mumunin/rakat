@@ -322,7 +322,7 @@
     },
     {
         "id_iptv": "rakettv",
-        "nama_channel": "TNT 1 Sports",
+        "nama_channel": "TNT Sports 1",
         "tagline": "",
         "jenis": "dash-clearkey",
         "url_iptv": "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
@@ -339,7 +339,7 @@
     },
     {
         "id_iptv": "rakettv",
-        "nama_channel": "TNT 2 Sports",
+        "nama_channel": "TNT Sports 2",
         "tagline": "",
         "jenis": "dash-clearkey",
         "url_iptv": "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
@@ -356,7 +356,7 @@
     },
     {
         "id_iptv": "rakettv",
-        "nama_channel": "TNT 3 Sports",
+        "nama_channel": "TNT Sports 3",
         "tagline": "",
         "jenis": "dash-clearkey",
         "url_iptv": "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
@@ -373,7 +373,7 @@
     },
     {
         "id_iptv": "rakettv",
-        "nama_channel": "TNT 4 Sports",
+        "nama_channel": "TNT Sports 4",
         "tagline": "",
         "jenis": "dash-clearkey",
         "url_iptv": "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
@@ -768,6 +768,23 @@
         "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0\"}",
         "pinned": "f",
         "url_license": "202a927cd913101de765b0e5bb3f500f:cdd399869057bc34c827f257f562643a",
+        "namespace": "",
+        "header_license": "{\"x-data\":\"none\"}",
+        "platform": "[web]"
+    },
+    {
+        "id_iptv": "rakettv",
+        "nama_channel": "Dazn Sports 1",
+        "tagline": "",
+        "jenis": "dash-clearkey",
+        "url_iptv": "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
+        "premium": "t",
+        "aktif": "t",
+        "adapter": "direct",
+        "alpha_2_code": "SP",
+        "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0\"}",
+        "pinned": "f",
+        "url_license": "44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0",
         "namespace": "",
         "header_license": "{\"x-data\":\"none\"}",
         "platform": "[web]"
