@@ -1,6 +1,23 @@
 [
     {
         "id_iptv": "rakettv",
+        "nama_channel": "PREMIER LEAGUE 1",
+        "tagline": "HD",
+        "jenis": "dash-clearkey",
+        "url_iptv": "https://g001-sle-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s/Live/channel(4505377-605640-418fd6e8808)/master.mpd",
+        "premium": "t",
+        "aktif": "t",
+        "adapter": "direct",
+        "alpha_2_code": "SP",
+        "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0\"}",
+        "pinned": "f",
+        "url_license": "45b3388e1ade3e9a8c5ebf6e63476d31:0f527d33b27cc9502540da2dfc7ccc68",
+        "namespace": "",
+        "header_license": "{\"x-data\":\"none\"}",
+        "platform": "[web]"
+    },
+    {
+        "id_iptv": "rakettv",
         "nama_channel": "SPOTV 1 HD",
         "tagline": "SPOTV 1",
         "jenis": "dash-clearkey",
