@@ -1,6 +1,6 @@
 [
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "RCTI TV",
         "tagline": "RCTI TV",
         "jenis": "dash-clearkey",
@@ -17,7 +17,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "MNC TV",
         "tagline": "MNC TV",
         "jenis": "dash-clearkey",
@@ -34,7 +34,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "GTV",
         "tagline": "GTV ",
         "jenis": "dash-clearkey",
@@ -51,7 +51,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Inews TV",
         "tagline": "GTV",
         "jenis": "dash-clearkey",
@@ -68,7 +68,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "SCTV ",
         "tagline": "SCTV",
         "jenis": "hls",
@@ -84,7 +84,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Indosiar ",
         "tagline": "Indosiar",
         "jenis": "hls",
@@ -100,7 +100,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Trans7",
         "tagline": "Trans7",
         "jenis": "dash-clearkey",
@@ -117,7 +117,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Trans TV",
         "tagline": "Trans TV",
         "jenis": "dash-clearkey",
@@ -134,7 +134,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "RTV",
         "tagline": "RTV",
         "jenis": "dash-clearkey",
@@ -151,7 +151,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "ANTV",
         "tagline": "ANTV",
         "jenis": "dash-clearkey",
@@ -168,7 +168,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TVONE",
         "tagline": "TVONE",
         "jenis": "dash-clearkey",
@@ -185,7 +185,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "KOMPAS TV",
         "tagline": "KOMPAS TV",
         "jenis": "dash-clearkey",
@@ -202,7 +202,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "METRO TV",
         "tagline": "METRO TV",
         "jenis": "dash-clearkey",
@@ -219,7 +219,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "NET TV",
         "tagline": "NET TV",
         "jenis": "dash-clearkey",
@@ -236,7 +236,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TVRI",
         "tagline": "TVRI",
         "jenis": "dash-clearkey",
@@ -253,7 +253,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Berita Satu",
         "tagline": "Berita Satu",
         "jenis": "dash-clearkey",
@@ -270,7 +270,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "JAK TV",
         "tagline": "JAK TV",
         "jenis": "dash-clearkey",
@@ -287,7 +287,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "JTV",
         "tagline": "JTV",
         "jenis": "dash-clearkey",
@@ -304,7 +304,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "HBO Movies",
         "tagline": "HBO Movies",
         "jenis": "dash-clearkey",
@@ -321,7 +321,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "HBO Hits Movies",
         "tagline": "HBO Hits Movies",
         "jenis": "dash-clearkey",
@@ -338,7 +338,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "HBO Family Movies",
         "tagline": "HBO Family Movies",
         "jenis": "dash-clearkey",
@@ -355,7 +355,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "HBO Signature Movies",
         "tagline": "HBO Signature Movies",
         "jenis": "dash-clearkey",
@@ -372,7 +372,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "HBO Cinemax Movies",
         "tagline": "HBO Cinemax Movies",
         "jenis": "dash-clearkey",
@@ -389,7 +389,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "HBO Kids Movies",
         "tagline": "HBO Kids Movies",
         "jenis": "dash-clearkey",
@@ -406,7 +406,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Cinemachi Movies",
         "tagline": "Cinemachi Movies",
         "jenis": "dash-clearkey",
@@ -423,7 +423,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Cinemachi Action",
         "tagline": "Cinemachi Action",
         "jenis": "dash-clearkey",
@@ -440,7 +440,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Cinemachi Xtra",
         "tagline": "Cinemachi Xtra",
         "jenis": "dash-clearkey",
@@ -457,7 +457,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Cinemachi Max",
         "tagline": "Cinemachi Max",
         "jenis": "dash-clearkey",
@@ -474,7 +474,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Cinemachi Kids",
         "tagline": "Cinemachi Kids",
         "jenis": "dash-clearkey",
@@ -491,7 +491,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "MyCinema Movies",
         "tagline": "MyCinema Movies",
         "jenis": "dash-clearkey",
@@ -508,7 +508,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "MyCinema Asia Movies",
         "tagline": "MyCinema Asia Movies",
         "jenis": "dash-clearkey",
@@ -525,7 +525,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "MyCinema Family Movies",
         "tagline": "MyCinema Family Movies",
         "jenis": "dash-clearkey",
@@ -542,7 +542,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "tvN Indonesia",
         "tagline": "tvN Indonesia",
         "jenis": "dash-clearkey",
@@ -559,7 +559,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "tvN Movies",
         "tagline": "tvN Movies",
         "jenis": "dash-clearkey",
@@ -576,7 +576,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "One Movies",
         "tagline": "One Movies",
         "jenis": "dash-clearkey",
@@ -593,7 +593,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Celestial Movies",
         "tagline": "Celestial Movies",
         "jenis": "dash-clearkey",
@@ -610,7 +610,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Celestial Classic Movies",
         "tagline": "Celestial Classic Movies",
         "jenis": "dash-clearkey",
@@ -627,7 +627,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Galaxy Movies",
         "tagline": "Galaxy Movies",
         "jenis": "dash-clearkey",
@@ -644,7 +644,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Galaxy Movies Premium",
         "tagline": "Galaxy Movies Premium",
         "jenis": "dash-clearkey",
@@ -661,7 +661,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Galaxy Movies Premium",
         "tagline": "Galaxy Movies Premium",
         "jenis": "dash-clearkey",
@@ -678,7 +678,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "KPlus Movies",
         "tagline": "KPlus Movies",
         "jenis": "hls",
@@ -694,7 +694,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Animax Kids",
         "tagline": "Animax Kids",
         "jenis": "dash-clearkey",
@@ -711,7 +711,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Nickelodeon Kids",
         "tagline": "Nickelodeon Kids",
         "jenis": "dash-clearkey",
@@ -728,7 +728,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "NickJr Kids",
         "tagline": "NickJr Kids",
         "jenis": "dash-clearkey",
@@ -745,7 +745,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Nation Geographic",
         "tagline": "Nation Geographic",
         "jenis": "dash-clearkey",
@@ -762,7 +762,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Love Nature",
         "tagline": "Love Nature",
         "jenis": "dash-clearkey",
@@ -779,7 +779,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "IMC Bioskop",
         "tagline": "IMC Bioskop",
         "jenis": "dash-clearkey",
@@ -796,7 +796,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Zee Bioskop",
         "tagline": "Zee Bioskop",
         "jenis": "dash-clearkey",
@@ -813,7 +813,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Channel 8 Bioskop",
         "tagline": "Channel 8 Bioskop",
         "jenis": "dash-clearkey",
@@ -830,7 +830,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "History",
         "tagline": "History",
         "jenis": "dash-clearkey",
@@ -847,7 +847,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "OKTV",
         "tagline": "OKTV",
         "jenis": "dash-clearkey",
@@ -864,7 +864,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Vision Prime",
         "tagline": "Vision Prime",
         "jenis": "dash-clearkey",
@@ -881,7 +881,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Hits",
         "tagline": "Hits",
         "jenis": "dash-clearkey",
@@ -898,7 +898,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Hits Movies",
         "tagline": "Hits Movies",
         "jenis": "dash-clearkey",
@@ -915,7 +915,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Thrill Movies",
         "tagline": "Thrill Movies",
         "jenis": "dash-clearkey",
@@ -932,7 +932,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "AXN Movies",
         "tagline": "AXN Movies",
         "jenis": "dash-clearkey",
@@ -949,7 +949,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TV5 Monde Kids",
         "tagline": "TV5 Monde Kids",
         "jenis": "dash-clearkey",
@@ -966,7 +966,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Music Channel",
         "tagline": "Music Channel",
         "jenis": "dash-clearkey",
