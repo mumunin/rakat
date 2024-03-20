@@ -1,6 +1,6 @@
 [
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "SPOTV 1 HD",
         "tagline": "SPOTV 1",
         "jenis": "dash-clearkey",
@@ -17,7 +17,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "SPOTV 2 HD",
         "tagline": "SPOTV 2",
         "jenis": "dash-clearkey",
@@ -34,7 +34,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sportstars 1 HD",
         "tagline": "Sportstars 1 HD",
         "jenis": "dash-clearkey",
@@ -51,7 +51,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sportstars 2 HD",
         "tagline": "Sportstars 2 HD",
         "jenis": "dash-clearkey",
@@ -68,7 +68,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sportstars 3 HD",
         "tagline": "Sportstars 3 HD",
         "jenis": "dash-clearkey",
@@ -85,7 +85,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sportstars 3 SD",
         "tagline": "Sportstars 3 SD",
         "jenis": "dash-clearkey",
@@ -102,7 +102,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sportstars 4 SD",
         "tagline": "Sportstars 4 SD",
         "jenis": "dash-clearkey",
@@ -119,7 +119,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Soccer Channel",
         "tagline": "Soccer Channel",
         "jenis": "dash-clearkey",
@@ -136,7 +136,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TVRI Sports",
         "tagline": "Soccer Channel",
         "jenis": "hls",
@@ -152,7 +152,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Bein Sports 1",
         "tagline": "Bein Sports 1",
         "jenis": "dash-clearkey",
@@ -169,7 +169,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Bein Sports 2",
         "tagline": "Bein Sports 2",
         "jenis": "dash-clearkey",
@@ -186,7 +186,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Bein Sports 3",
         "tagline": "Bein Sports 3",
         "jenis": "dash-clearkey",
@@ -203,7 +203,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Bein Sports 4",
         "tagline": "Bein Sports 4",
         "jenis": "dash-clearkey",
@@ -220,7 +220,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Bein Sports 5",
         "tagline": "Bein Sports 5",
         "jenis": "dash-clearkey",
@@ -237,7 +237,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Bein Sports 6",
         "tagline": "Bein Sports 6",
         "jenis": "dash-clearkey",
@@ -254,7 +254,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Bein Sports 7",
         "tagline": "Bein Sports 7",
         "jenis": "dash-clearkey",
@@ -271,7 +271,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Bein Sports 1 Indonesia",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -288,7 +288,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Bein Sports 3 Indonesia",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -305,7 +305,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Bein Sports Extra",
         "tagline": "Bein Sports Extra",
         "jenis": "hls",
@@ -321,7 +321,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "itv Sports 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -338,7 +338,7 @@
         "platform": "[web]"
     },    
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "itv Sports 2",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -355,7 +355,7 @@
         "platform": "[web]"
     },    
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sportnet 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -372,7 +372,7 @@
         "platform": "[web]"
     },    
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TNT Sports 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -389,7 +389,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TNT Sports 2",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -406,7 +406,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TNT Sports 3",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -423,7 +423,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TNT Sports 4",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -440,7 +440,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "True Premier 1",
         "tagline": "",
         "jenis": "hls",
@@ -456,7 +456,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "True Premier 2",
         "tagline": "",
         "jenis": "hls",
@@ -472,7 +472,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Bein Sports 1 TH",
         "tagline": "",
         "jenis": "hls",
@@ -488,7 +488,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Bein Sports 3 TH",
         "tagline": "",
         "jenis": "hls",
@@ -504,7 +504,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "True Sports 1",
         "tagline": "",
         "jenis": "hls",
@@ -520,7 +520,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "True Sports 2",
         "tagline": "",
         "jenis": "hls",
@@ -536,7 +536,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "True Sports 3",
         "tagline": "",
         "jenis": "hls",
@@ -552,7 +552,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "VSports 1 Premium",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -569,7 +569,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "VSports 2 Premium",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -586,7 +586,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "VSports 3 Premium",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -603,7 +603,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Via Sports 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -620,7 +620,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Via Sports 2",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -637,7 +637,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Via Sports Premium",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -654,7 +654,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Premier Sports 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -671,7 +671,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Premier Sports 2",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -688,7 +688,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Prima Sports 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -705,7 +705,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Prima Sports 2",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -722,7 +722,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Prima Sports 3",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -739,7 +739,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Prima Sports 4",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -756,7 +756,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Orange Sports 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -773,7 +773,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Orange Sports 2",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -790,7 +790,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Orange Sports 3",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -807,7 +807,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Orange Sports 4",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -824,7 +824,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Dazn Sports 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -841,7 +841,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Dazn Sports 3",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -858,7 +858,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Dazn Sports 4",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -875,7 +875,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Dazn La Liga TV",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -892,7 +892,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Dazn La Liga 2 TV",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -909,7 +909,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Dazn Formula 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -926,7 +926,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Eurosport 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -943,7 +943,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Eurosport 2",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -960,7 +960,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "ESPN Sports 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -977,7 +977,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "ESPN Sports 2",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -994,7 +994,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "ESPN Sports 3",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1011,7 +1011,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "ESPN Sports 4",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1028,7 +1028,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "ESPN Sports 5",
         "tagline": "",
         "jenis": "hls",
@@ -1044,7 +1044,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "ESPN Sports Premium",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1061,7 +1061,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TNT Sports Premium",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1078,7 +1078,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "FOX Sports 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1095,7 +1095,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "FOX Sports 2",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1112,7 +1112,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "FOX Sports 3",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1129,7 +1129,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Manchester United TV",
         "tagline": "Manchester United TV",
         "jenis": "hls",
@@ -1145,7 +1145,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Real Madrid TV",
         "tagline": "Real Madrid TV",
         "jenis": "hls",
@@ -1161,7 +1161,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Fight TV",
         "tagline": "Fight TV",
         "jenis": "hls",
@@ -1177,7 +1177,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Eleven Sports 1",
         "tagline": "",
         "jenis": "hls",
@@ -1193,7 +1193,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Eleven Sports 2",
         "tagline": "",
         "jenis": "hls",
@@ -1209,7 +1209,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Eleven Sports 3",
         "tagline": "",
         "jenis": "hls",
@@ -1225,7 +1225,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Eleven Sports 4",
         "tagline": "",
         "jenis": "hls",
@@ -1241,7 +1241,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Eleven Sports 5",
         "tagline": "",
         "jenis": "hls",
@@ -1257,7 +1257,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Eleven Sports 6",
         "tagline": "",
         "jenis": "hls",
@@ -1273,7 +1273,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sport TV 1 Portugal",
         "tagline": "",
         "jenis": "hls",
@@ -1289,7 +1289,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sport TV 2 Portugal",
         "tagline": "",
         "jenis": "hls",
@@ -1305,7 +1305,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sport TV 3 Portugal",
         "tagline": "",
         "jenis": "hls",
@@ -1321,7 +1321,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sport TV 4 Portugal",
         "tagline": "",
         "jenis": "hls",
@@ -1337,7 +1337,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sport TV 5 Portugal",
         "tagline": "",
         "jenis": "hls",
@@ -1353,7 +1353,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sport TV 6 Portugal",
         "tagline": "",
         "jenis": "hls",
@@ -1369,7 +1369,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sport TV 7 Portugal",
         "tagline": "",
         "jenis": "hls",
@@ -1385,7 +1385,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "SSC 1 Arabic",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1402,7 +1402,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "SSC 2 Arabic",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1419,7 +1419,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "SSC 3 Arabic",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1436,7 +1436,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "SSC 4 Arabic",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1453,7 +1453,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "SSC 5 Arabic",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1470,7 +1470,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "SSC 1 EXTRA Arabic",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1487,7 +1487,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "SSC 2 EXTRA Arabic",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1504,7 +1504,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "SSC 3 EXTRA Arabic",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1521,7 +1521,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "SSC NEWS Arabic",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1538,7 +1538,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sky Sports 24",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1555,7 +1555,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sky Sports Max",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1572,7 +1572,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sky Sports Arena",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1589,7 +1589,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sky Main Event",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1606,7 +1606,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sky Sports Football",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1623,7 +1623,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sky Premier League",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1640,7 +1640,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sky Sports 253",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1657,7 +1657,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sky Formula 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1674,7 +1674,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sky MotoGP",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1691,7 +1691,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sky Sports Calcio",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1708,7 +1708,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Sky Sports Uno",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1725,7 +1725,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "USA Sport Premier League",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1742,7 +1742,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Band Sports Formula 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1759,7 +1759,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TSN Sports 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1776,7 +1776,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TSN Sports 2",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1793,7 +1793,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TSN Sports 3",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1810,7 +1810,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TSN Sports 4",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1827,7 +1827,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TSN Sports 5",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1844,7 +1844,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "TUDN Sports",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1861,7 +1861,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "NBC Sports",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1878,7 +1878,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "NFL TV Sports",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1895,7 +1895,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Golf TV Sports",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1912,7 +1912,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "USA Premier League",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1929,7 +1929,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "WWE TV - Boxing",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1946,7 +1946,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Arena 1 Premium",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1963,7 +1963,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Arena 2 Premium",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1980,7 +1980,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Arena 3 Premium",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -1997,7 +1997,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Arena Sports 1",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -2014,7 +2014,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Arena Sports 2",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -2031,7 +2031,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Arena Sports 3",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -2048,7 +2048,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Arena Sports 4",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -2065,7 +2065,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Arena Sports 5",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -2082,7 +2082,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Arena Sports 6",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -2099,7 +2099,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Arena Premier League",
         "tagline": "",
         "jenis": "dash-clearkey",
@@ -2116,7 +2116,7 @@
         "platform": "[web]"
     },
     {
-        "id_iptv": "rakettv",
+        "id_iptv": "prominton",
         "nama_channel": "Arena Sports Plus",
         "tagline": "",
         "jenis": "dash-clearkey",
