@@ -842,6 +842,23 @@
     },
     {
         "id_iptv": "prominton",
+        "nama_channel": "Dazn Sports 2",
+        "tagline": "",
+        "jenis": "dash-clearkey",
+        "url_iptv": "https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd",
+        "premium": "t",
+        "aktif": "t",
+        "adapter": "direct",
+        "alpha_2_code": "SP",
+        "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0\"}",
+        "pinned": "f",
+        "url_license": "0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d",
+        "namespace": "",
+        "header_license": "{\"x-data\":\"none\"}",
+        "platform": "[web]"
+    },
+    {
+        "id_iptv": "prominton",
         "nama_channel": "Dazn Sports 3",
         "tagline": "",
         "jenis": "dash-clearkey",
